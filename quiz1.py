@@ -6,9 +6,9 @@ pygame.init()
 SCREEN = pygame.display.set_mode((800, 800))
 pygame.display.set_caption("Lets Get Quizzical")
 
-BG_COLOR = "#0a092d"
-FLASHCARD_COLOR = "#2e3856"
-FLIPPED_COLOR = "#595e6d"
+BG_COLOR = "#3443eb"
+FLASHCARD_COLOR = "#34a8eb"
+FLIPPED_COLOR = "#34a8eb"
 FONT = pygame.font.SysFont("Arial", 30)
 
 SCREEN.fill(BG_COLOR)
